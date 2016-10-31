@@ -1,1 +1,1 @@
-"# wednezday19" 
+install npm i
